@@ -1,0 +1,1 @@
+The Multiple File Upload Plugin (jQuery.MultiFile) is a non-obstrusive plugin for the jQuery Javascript library that helps users easily select multiple files for upload quickly and easily whilst also providing some basic validation functionality to help developers idenfity simple errors, without having to submit the form (ie.: upload files).
